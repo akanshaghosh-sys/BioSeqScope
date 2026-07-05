@@ -22,3 +22,6 @@ plt.pie(composition,
 plt.title("Composition of Nitrogenous Bases")
 
 plt.show()
+plt.title("Composition of Nitrogenous Bases")
+
+plt.show()
