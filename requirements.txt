@@ -1,0 +1,4 @@
+
+biopython==1.87
+matplotlib
+numpy
