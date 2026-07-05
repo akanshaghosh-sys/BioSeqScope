@@ -18,8 +18,7 @@ plt.pie(composition,
         autopct="%1.1f%%",
         startangle=90)
 
-# Add a title
+
 plt.title("Composition of Nitrogenous Bases")
 
-# Display the chart
 plt.show()
